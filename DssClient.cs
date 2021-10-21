@@ -32,7 +32,7 @@ using DataScope.Select.Api.Extractions.ReportExtractions;
 using DataScope.Select.Api.Extractions.ExtractionRequests;
 using DataScope.Select.Core.RestApi;
 
-namespace TRTH_PageExtractor
+namespace RTH_PageExtractor
 {
     class DssClient
     {

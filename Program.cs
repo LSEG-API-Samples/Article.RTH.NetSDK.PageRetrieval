@@ -1,7 +1,7 @@
 ﻿//============================================================================
-//TRTH REST API Sample Application
+//RTH REST API Sample Application
 //
-//This Application implements steps to retreive Record Page via TRTH REST API.
+//This Application implements steps to retreive Record Page via RTH REST API.
 //
 //============================================================================
 using System;
@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace TRTH_PageExtractor
+namespace RTH_PageExtractor
 {
     class Program
     {
