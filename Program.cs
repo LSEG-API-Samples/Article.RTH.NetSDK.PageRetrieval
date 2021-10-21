@@ -19,7 +19,7 @@ namespace TRTH_PageExtractor
         //=====================================================================
         private static string dssUserName = "YourDSSUserId";
         private static string dssUserPassword = "YourDSSPassword";
-        private static Uri dssUri = new Uri("https://hosted.datascopeapi.reuters.com/RestApi/v1/");
+        private static Uri dssUri = new Uri("https://selectapi.datascope.refinitiv.com/RestApi/v1/");
         private static string pageRIC = "FXFX";
 
         //=====================================================================

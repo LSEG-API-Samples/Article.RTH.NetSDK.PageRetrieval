@@ -21,16 +21,16 @@ using System.IO;
 using Microsoft.VisualBasic.FileIO;
 using System.Text.RegularExpressions;
 
-using ThomsonReuters.Dss.Api.Extractions;
-using ThomsonReuters.Dss.Api.Extractions.SubjectLists;
-using ThomsonReuters.Dss.Api.Content;
-using ThomsonReuters.Dss.Api.Extractions.ReportTemplates;
-using ThomsonReuters.Dss.Api.Extractions.Schedules;
-using ThomsonReuters.Dss.Api;
-using ThomsonReuters.Dss.Api.Core;
-using ThomsonReuters.Dss.Api.Extractions.ReportExtractions;
-using ThomsonReuters.Dss.Api.Extractions.ExtractionRequests;
-using ThomsonReuters.Dss.Core.RestApi;
+using DataScope.Select.Api.Extractions;
+using DataScope.Select.Api.Extractions.SubjectLists;
+using DataScope.Select.Api.Content;
+using DataScope.Select.Api.Extractions.ReportTemplates;
+using DataScope.Select.Api.Extractions.Schedules;
+using DataScope.Select.Api;
+using DataScope.Select.Api.Core;
+using DataScope.Select.Api.Extractions.ReportExtractions;
+using DataScope.Select.Api.Extractions.ExtractionRequests;
+using DataScope.Select.Core.RestApi;
 
 namespace TRTH_PageExtractor
 {
